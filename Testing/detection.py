@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May  9 08:54:44 2020
 
-@author: sumanth
-"""
 import numpy as np
 import cv2
 from tensorflow.keras.applications.mobilenet_v2 import preprocess_input

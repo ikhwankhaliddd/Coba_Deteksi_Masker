@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 12 09:56:23 2020
-
-@author: sumanth
-"""
 
 from flask import Flask, render_template, Response,request
 from werkzeug.utils import secure_filename

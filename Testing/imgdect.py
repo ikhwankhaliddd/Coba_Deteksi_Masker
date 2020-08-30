@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 13 19:19:53 2020
 
-@author: sumanth
-"""
 
 import cv2
 from tensorflow.keras.models import load_model
